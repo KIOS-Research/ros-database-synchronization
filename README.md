@@ -45,4 +45,4 @@ then the specific packet will also be propagated to the following topics;
 
 ## Contributions
 
-Christos Georgiades - November, 2022
+[Christos Georgiades](https://github.com/kitos2) - November, 2022
