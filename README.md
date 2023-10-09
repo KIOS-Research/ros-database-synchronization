@@ -16,7 +16,7 @@ sqlite3
 Simply let the script run in the background following the same steps as any other ros enabled program.
 
 ## Logging
-Place a subscriber in the listener function with the following format:
+Place a subscriber in the subscribeTopics function inside databaseHandler.py with the following format:
 	
 rospy.Subscriber('/TopicName', TopicType, savePacketCB)
 
